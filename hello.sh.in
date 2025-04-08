@@ -1,0 +1,3 @@
+#! @bash@/bin/sh
+
+@java@/bin/java -jar @out@/libexec/hello/hello.jar
